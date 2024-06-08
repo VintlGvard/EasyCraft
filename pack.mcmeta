@@ -1,0 +1,20 @@
+{
+    "pack": {
+        "pack_format":4,
+        "description": [
+            {
+                "text": "VintlGvard",
+                "color": "red"
+            },
+            {
+                "text": "'s ",
+                "color": "white"
+            },
+            {
+                "text": "EasyСraft+",
+                "color": "white",
+                "bold": false
+            }
+        ]
+    }
+}
