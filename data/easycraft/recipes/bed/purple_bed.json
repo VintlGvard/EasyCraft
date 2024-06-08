@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:beds",
+            "count": 1
+        },
+        {
+            "item": "minecraft:purple_dye",
+            "count": 1
+        }
+    ],
+    "result": {
+        "item": "minecraft:purple_bed",
+        "count": 1
+    }
+}
