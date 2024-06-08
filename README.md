@@ -1,8 +1,8 @@
 # EasyСraft+
 ## Description / Описание
-[en] Have you ridden a pig or a strider? Do you need to pick up the saddle because it is a valuable and rare resource? With this datapack you can easily pick up the saddle from your pet transport
+[en] Do you really lack variety in crafting? This datapack will help you add more variety to your crafting while maintaining balance and logic. A little relief of crafting and their variety will make the game much more interesting
 
-[ru] Покатались на свинье или страйдере? Вам нужно забрать седло ведь оно ценный и редкий ресурс? С данным датапаком вы с легкостью сможете забрать седло со своего питомца-транспорта
+[ru] Вам сильно не хватает разнообразия в крафтах? Данный датапак поможет вам добавить больше разнообразия в крафты при этом соблюдая баланс и логику. Небольшое облегчение крафтов и их разнообразие, сделает игру в разы интереснее
 
 ## Installation / Установка
 
