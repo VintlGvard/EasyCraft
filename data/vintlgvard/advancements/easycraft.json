@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "EasyСraft+",
+        "description": "VintlGvard's EasyСraft+",
+        "icon": {
+            "item": "minecraft:crafting_table"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "vintlgvard:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
