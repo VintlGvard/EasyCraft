@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "@ @",
+      "/!/",
+      "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sculk"
+        },
+        "@": {
+            "item": "minecraft:bone"
+        },
+        "!": [
+            {
+                "item": "minecraft:soul_soil"
+            },
+            {
+                "item": "minecraft:soul_sand"
+            }
+        ],
+        "/": {
+            "item": "minecraft:echo_shard"
+        }
+    },
+    "result": {
+      "item": "minecraft:sculk_shrieker",
+      "count": 1
+    }
+  }

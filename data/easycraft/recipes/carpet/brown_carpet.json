@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "***",
+        "*_*",
+        "***"
+    ],
+    "key": {
+        "*": {
+            "tag": "minecraft:wool_carpets"
+        },
+        "_": {
+            "item": "minecraft:brown_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:brown_carpet",
+        "count": 8
+    }
+}
