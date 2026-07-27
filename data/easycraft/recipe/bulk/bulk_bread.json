@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:hay_block"
+    },
+    "result": {
+        "count": 9,
+        "id": "minecraft:bread"
+    }
+}

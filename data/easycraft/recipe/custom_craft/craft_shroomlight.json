@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/",
+        "#"
+    ],
+    "key": {
+        "/": [
+            "minecraft:red_mushroom_block",
+            "minecraft:brown_mushroom_block",
+            "minecraft:mushroom_stem"
+        ],
+        "#": [
+            "minecraft:glowstone"
+        ]
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:shroomlight"
+    }
+}

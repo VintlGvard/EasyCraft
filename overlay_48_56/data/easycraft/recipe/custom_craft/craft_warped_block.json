@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:warped_fungus"
+        }
+    },
+    "result": {
+        "count": 1,
+        "item": "minecraft:warped_wart_block"
+    }
+}

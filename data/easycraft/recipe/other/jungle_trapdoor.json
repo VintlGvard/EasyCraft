@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_trapdoor",
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:jungle_planks"
+    },
+    "result": {
+        "count": 12,
+        "id": "minecraft:jungle_trapdoor"
+    }
+}

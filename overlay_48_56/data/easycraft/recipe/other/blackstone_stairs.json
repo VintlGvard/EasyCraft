@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:blackstone"
+        }
+    },
+    "result": {
+        "count": 8,
+        "item": "minecraft:blackstone_stairs"
+    },
+    "group": "wooden_stairs"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:cobweb"
+    ],
+    "result": {
+        "count": 5,
+        "id": "minecraft:string"
+    }
+}

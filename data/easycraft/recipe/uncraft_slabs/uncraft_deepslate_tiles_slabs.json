@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_",
+        "_"
+    ],
+    "key": {
+        "_": "minecraft:deepslate_tile_slab"
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:deepslate_tiles"
+    }
+}

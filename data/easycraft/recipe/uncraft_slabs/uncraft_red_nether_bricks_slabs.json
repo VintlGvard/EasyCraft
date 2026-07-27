@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_",
+        "_"
+    ],
+    "key": {
+        "_": "minecraft:red_nether_brick_slab"
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:red_nether_bricks"
+    }
+}

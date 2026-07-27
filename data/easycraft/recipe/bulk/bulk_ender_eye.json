@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:ender_pearl",
+        "minecraft:ender_pearl",
+        "blaze_rod"
+    ],
+    "result": {
+        "count": 2,
+        "id": "minecraft:ender_eye"
+    }
+}

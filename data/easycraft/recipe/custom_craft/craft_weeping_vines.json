@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": "minecraft:crimson_roots"
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:weeping_vines"
+    }
+}

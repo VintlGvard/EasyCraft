@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:dark_prismarine"
+    },
+    "result": {
+        "count": 8,
+        "id": "minecraft:dark_prismarine_stairs"
+    },
+    "group": "prismarine_stairs"
+}
